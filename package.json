@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "yuxiu"
+  },
+  "bugs": {
+    "url": "git@git.showjoy.net:yuxiu/joyui-loader.git"
+  },
+  "dependencies": {},
+  "description": "joyui loader module for webpack",
+  "devDependencies": {},
+  "directories": {},
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "maintainers": [
+    {
+      "email": "yuxiu@showjoy.com",
+      "name": "yuxiu"
+    }
+  ],
+  "name": "joyui-loader",
+  "repository": {
+    "type": "git",
+    "url": "git@git.showjoy.net:yuxiu/joyui-loader.git"
+  },
+  "version": "0.0.1"
+}
